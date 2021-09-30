@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I am Pushpavel 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pushpavel21231231)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pushpavel&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpavel&layout=compact)
+
+
 
 <!--
 **Pushpavel/Pushpavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
