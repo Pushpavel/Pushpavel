@@ -1,5 +1,5 @@
 ## Hi, I am Pushpavel 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=com.github.pushpavel)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=com.github.pushpavel)
 
 <a href="https://github.com/Pushpavel/Pushpavel">
   <img height="180em" align="center" style="padding-bottom:8px" src="https://github-readme-stats.vercel.app/api?username=Pushpavel&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=prs" />
